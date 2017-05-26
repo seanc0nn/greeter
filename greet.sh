@@ -1,1 +1,1 @@
-echo "hello, %USER"
+echo "hello, %USERNAME%"
